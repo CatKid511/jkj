@@ -1,0 +1,18 @@
+<!Doctype html>
+<html>
+<head>
+  <title> BrainRotGames </title>
+  <style>
+     body {
+        margin: 0px;
+}
+.pad {
+   padding: 25px;
+}
+.header {
+  background-color: lightblue;
+  color: black;
+  height: 100px;
+  font-size 36pt;
+  text-align: center;
+}
