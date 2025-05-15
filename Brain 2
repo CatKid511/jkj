@@ -24,4 +24,9 @@
   height: 40px;
   margin: 0px;
 }
+.main-text {
+  width: 60%
+  float: left;
+  backgroud-coler: beige;
+}
   
