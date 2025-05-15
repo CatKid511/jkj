@@ -29,4 +29,13 @@
   float: left;
   backgroud-coler: beige;
 }
-  
+</style>
+</head>
+ <body>
+  <div class="header pad">
+    Brain Rot Games
+  </div>
+  <div>
+      <p class="welcome">
+         Your best choice for Unblocked Games on the internet!
+      </p>
